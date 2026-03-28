@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ExpenseTrackerAI</string>
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Expense Tracker AI</string>
+    <string name="welcome_subtitle">Smart AI insights to manage your money better. Welcome to the future of finance.</string>
+    <string name="get_started">Get Started</string>
+    <string name="developed_by">Developed by SAif ur rahman</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="total_balance">Total Balance</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="see_all">See All</string>
+
+    <!-- Add Expense -->
+    <string name="add_expense_title">Add Expense</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="save_expense">Save Expense</string>
+    
+    <!-- Auth Screens -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="welcome_back">Welcome back! Login to continue.</string>
+    <string name="create_account">Create Account</string>
+
+    <!-- Settings & Profile -->
+    <string name="language">Language</string>
+    <string name="preferences">Preferences</string>
+    <string name="about_developer">About Developer (SAif ur rahman)</string>
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ExpenseTrackerAI</string>
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Expense Tracker AI</string>
+    <string name="welcome_subtitle">Apne paison ka behetareen hisab rakhein AI ke sath.</string>
+    <string name="get_started">Shuru Karein</string>
+    <string name="developed_by">SAif ur rahman ki peishkash</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_insights">AI Mashwara</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Screen -->
+    <string name="total_balance">Kul Balance</string>
+    <string name="recent_transactions">Haaliya Kharchay</string>
+    <string name="see_all">Sab Dekhein</string>
+
+    <!-- Add Expense -->
+    <string name="add_expense_title">Kharcha Darj Karein</string>
+    <string name="amount">Raqam</string>
+    <string name="category">Category</string>
+    <string name="description">Tafseel</string>
+    <string name="save_expense">Mehfooz Karein</string>
+
+    <!-- Auth Screens -->
+    <string name="login">Log In</string>
+    <string name="register">Naya Khata</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Pura Naam</string>
+    <string name="welcome_back">Agay barhne ke liye Log In karein.</string>
+    <string name="create_account">Naya account banayein</string>
+
+    <!-- Settings & Profile -->
+    <string name="language">Zubaan (Language)</string>
+    <string name="preferences">Settings</string>
+    <string name="about_developer">SAif ur rahman ke baare mein</string>
+</resources>
